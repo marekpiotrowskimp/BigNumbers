@@ -1,0 +1,29 @@
+BCSymbolMap Version: 2.0
+_$s10BigNumbers0A6NumberC1xs5Int64VvpWvd
+_$s10BigNumbers0A6NumberC1ys5Int64VvpWvd
+_$s10BigNumbersMXM
+_$s10BigNumbers0A6NumberCML
+_$s10BigNumbers0A6NumberCMf
+_symbolic _____ 10BigNumbers0A6NumberC
+_symbolic s5Int64V
+_$s10BigNumbers0A6NumberCMF
+___swift_reflection_version
+_objc_classes
+_$s10BigNumbers0A6NumberC1xs5Int64VvgTq
+_$s10BigNumbers0A6NumberC1xs5Int64VvsTq
+_$s10BigNumbers0A6NumberC1xs5Int64VvMTq
+_$s10BigNumbers0A6NumberC1ys5Int64VvgTq
+_$s10BigNumbers0A6NumberC1ys5Int64VvsTq
+_$s10BigNumbers0A6NumberC1ys5Int64VvMTq
+Apple clang version 11.0.0 (clang-1100.0.33.15)
+<swift-imported-modules>
+/Users/marek.piotrowski/PrivateProjects/BigNumbers
+Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
+/Users/marek.piotrowski/PrivateProjects/BigNumbers/BigNumbers/BigNumber.swift
+deinit
+getTupla
+init
+$s10BigNumbers0A6NumberCMa
+<compiler-generated>
+Apple clang version 11.0.0 (clang-1100.0.33.17)
+/Users/marek.piotrowski/Library/Developer/Xcode/DerivedData/BigNumbers-djpxzrqemhdvofdoidcloxbrigmc/Build/Intermediates.noindex/ArchiveIntermediates/BigNumbers/IntermediateBuildFilesPath/BigNumbers.build/Release-iphoneos/BigNumbers.build/DerivedSources/BigNumbers_vers.c
