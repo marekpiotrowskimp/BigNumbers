@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FF054F6025DBB5A30017B07A /* BigNumber.swift in Headers */ = {isa = PBXBuildFile; fileRef = FF8A519025DABF6300F6F47E /* BigNumber.swift */; platformFilter = ios; settings = {ATTRIBUTES = (Public, ); }; };
 		FF8A518025DABEA700F6F47E /* BigNumbers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF8A517625DABEA700F6F47E /* BigNumbers.framework */; };
 		FF8A518525DABEA700F6F47E /* BigNumbersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8A518425DABEA700F6F47E /* BigNumbersTests.swift */; };
 		FF8A518725DABEA700F6F47E /* BigNumbers.h in Headers */ = {isa = PBXBuildFile; fileRef = FF8A517925DABEA700F6F47E /* BigNumbers.h */; platformFilter = ios; settings = {ATTRIBUTES = (Public, ); }; };
@@ -98,7 +97,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF8A518725DABEA700F6F47E /* BigNumbers.h in Headers */,
-				FF054F6025DBB5A30017B07A /* BigNumber.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
