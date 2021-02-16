@@ -1,0 +1,11 @@
+framework module BigNumbers {
+  umbrella header "BigNumbers.h"
+
+  export *
+  module * { export * }
+}
+
+module BigNumbers.Swift {
+    header "BigNumbers-Swift.h"
+    requires objc
+}
